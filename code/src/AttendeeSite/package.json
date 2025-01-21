@@ -4,9 +4,6 @@
   "description": "provision to azure cloud",
   "main": "provisionComposer.js",
   "license": "MIT",
-  "engines": {
-    "npm": ">=7.0.0"
-  },
   "scripts": {
     "start": "node provisionComposer.js"
   },
